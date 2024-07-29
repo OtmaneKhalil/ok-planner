@@ -1,0 +1,27 @@
+{
+  "name": "ok-planner",
+  "version": "1.0.0",
+  "description": "planner plugin for plan employees working days or somethings like this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtmaneKhalil/ok-planner.git"
+  },
+  "keywords": [
+    "planner",
+    "ok-planner",
+    "plugin",
+    "plan",
+    "scheduler",
+    "calendar"
+  ],
+  "author": "otmane khalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtmaneKhalil/ok-planner/issues"
+  },
+  "homepage": "https://github.com/OtmaneKhalil/ok-planner#readme"
+}
