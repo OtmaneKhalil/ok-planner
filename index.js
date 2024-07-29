@@ -1,4 +1,10 @@
-
+/*!
+ * Planner v1.0.0
+ * https://cdn.jsdelivr.net/gh/OtmaneKhalil/ok-planner/index.min.js
+ *
+ * Copyright 2024 Otmane Khalil
+ * Released under the MIT license
+ */
 export default class Planner {
     constructor(container, config) {
         if (typeof container === "string") {
